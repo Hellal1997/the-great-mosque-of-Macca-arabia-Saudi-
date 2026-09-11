@@ -5,7 +5,6 @@ agent-based crowd performing tawaf around the Kaaba, entering and leaving
 through the gates, and forming curved concentric rows for congregational
 prayer.
 
-[Live website](https://hellal1997.github.io/the-great-mosque-of-Macca-arabia-Saudi-/)
 [Live website](https://alzin.github.io/The-Great-Mosque-of-Mecca-Masjid-al-Haram/)
 
 · [GitHub repository](https://github.com/Hellal1997/the-great-mosque-of-Macca-arabia-Saudi-)
